@@ -11,4 +11,5 @@ Ejercicio #86
 
 Ejercicio #87
 
+![ScreenshotPythonExercise#87](https://user-images.githubusercontent.com/58041699/123524569-e2954480-d690-11eb-9b2a-91cbc6da86cf.PNG)
 
