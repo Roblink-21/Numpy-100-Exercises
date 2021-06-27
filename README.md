@@ -6,6 +6,6 @@ Integrantes:
 *  
 * 
 * 
-* 
+* Miguel Cuenca
 * Roberth Pincha
 * 
