@@ -8,4 +8,4 @@ Integrantes:
 * 
 * Miguel Cuenca
 * Roberth Pincha
-* 
+* Sebastián Valencia
