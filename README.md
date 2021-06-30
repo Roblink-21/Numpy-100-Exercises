@@ -5,7 +5,7 @@ Integrantes:
 
 *  
 * 
-* 
+* Luis Jácome
 * Miguel Cuenca
 * Roberth Pincha
 * Sebastián Valencia
